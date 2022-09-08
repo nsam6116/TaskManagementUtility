@@ -1,0 +1,10 @@
+C:\Users\Sameer\source\repos\TaskManagementApp\bin\Debug\TaskManagementApp.exe.config
+C:\Users\Sameer\source\repos\TaskManagementApp\bin\Debug\TaskManagementApp.exe
+C:\Users\Sameer\source\repos\TaskManagementApp\bin\Debug\TaskManagementApp.pdb
+C:\Users\Sameer\source\repos\TaskManagementApp\obj\Debug\TaskManagementApp.csprojAssemblyReference.cache
+C:\Users\Sameer\source\repos\TaskManagementApp\obj\Debug\TaskManagementApp.Form1.resources
+C:\Users\Sameer\source\repos\TaskManagementApp\obj\Debug\TaskManagementApp.Properties.Resources.resources
+C:\Users\Sameer\source\repos\TaskManagementApp\obj\Debug\TaskManagementApp.csproj.GenerateResource.cache
+C:\Users\Sameer\source\repos\TaskManagementApp\obj\Debug\TaskManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Sameer\source\repos\TaskManagementApp\obj\Debug\TaskManagementApp.exe
+C:\Users\Sameer\source\repos\TaskManagementApp\obj\Debug\TaskManagementApp.pdb
